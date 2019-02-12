@@ -1,0 +1,9 @@
+body {
+  background-image: url("https://www.warrenphotographic.co.uk/photography/bigs/41427-Surfing-cat-selfie.jpg");
+  text-color: cyan;
+  font-family: Rancho, sans-serif;
+  background-color: rgba(0, 0, 0, .45);
+}
+h1 {
+  text-align: center;
+}
